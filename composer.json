@@ -1,0 +1,15 @@
+{
+    "name": "ando/add-clear",
+    "type": "library",
+    "description": "A jQuery plugin  that adds a input clearing button on any input you apply it to. It clears the value, and returns focus to that field.",
+    "keywords": ["jquery", "input", "clear"],
+    "homepage": "https://github.com/skorecky/Add-Clear",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stephen Korecky ",
+            "homepage": "http://stephenkorecky.com",
+            "role": "Developer"
+        }
+    ]
+}
